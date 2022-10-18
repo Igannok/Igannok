@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Igannok
-- 👀 I’m interested in coding & webdev
-- 🌱 I’m currently learning C#, html/css/js
+- 👀 I’m interested in coding & back end stuff
+- 🌱 I’m currently learning java
 
 <!---
 Igannok/Igannok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
